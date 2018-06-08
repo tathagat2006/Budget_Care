@@ -11,3 +11,19 @@ var budgetController = ( function(){
         }
     }
 })();
+
+// UI CONTROLLER MODULE.
+
+var UIController = ( function(){
+    
+    
+}
+)
+
+// APP CONTROLLER (COMMUNICATING BETWEEN THE ABOVE MODULES).
+
+var controller = ( function(){
+    
+    
+}
+)
